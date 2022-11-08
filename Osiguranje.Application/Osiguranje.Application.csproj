@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Osiguranje.Contracts\Osiguranje.Contracts.csproj" />
+    <ProjectReference Include="..\Osiguranje.Domain\Osiguranje.Domain.csproj" />
   </ItemGroup>
 
 </Project>
